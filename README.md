@@ -6,8 +6,7 @@ Dr. Gajanan Ayurworld is a professional and responsive Ayurvedic healthcare webs
 The project focuses on creating an informative online presence for an Ayurvedic healthcare practice while ensuring easy navigation and accessibility across different devices.
 
 Live Website
-
-Visit Dr. Gajanan Ayurworld
+Visit (https://drgajananayurworld.com/)
 
 Technologies Used
 WordPress
